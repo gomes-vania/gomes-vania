@@ -13,7 +13,7 @@
     
    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gomes-vania&theme=shades-of-purple&show_icons=true" /> |   
    <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=gomes-vania&theme=shades-of-purple" alt="stats" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gomes-vania&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ 
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomes-vania&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
