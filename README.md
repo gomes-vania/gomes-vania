@@ -6,15 +6,17 @@
 
  ##
 
- <h3> 📚 Github Stats: <br></h3>
-
  <div align="center">
     <a href="https://github.com/gomes-vania">
     
-   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gomes-vania&theme=shades-of-purple&show_icons=true" /> 
-   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=gomes-vania&theme=shades-of-purple" alt="stats" />
- 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomes-vania&layout=compact&langs_count=16&theme=shades-of-purple"/>
+     ___
+
+| <img src="https://github-readme-stats.vercel.app/api?username=gomes-vania&theme=tokyonight&show_icons=true" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=gomes-vania&theme=tokyonight" alt="stats" /> |
+|:---:|:---:|
+
+  ___
+
+ <img width="170" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomes-vania&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
 <br>
