@@ -10,7 +10,7 @@
     <a href="https://github.com/gomes-vania">
  ___
 
-| <img src="https://github-readme-stats.vercel.app/api?username=gomes-vania&theme=tokyonight&show_icons=true&include_all_commits=true" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=gomes-vania&theme=tokyonight" alt="stats" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=gomes-vania&theme=tokyonight&include_all_commits=true&show_icons=true" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=gomes-vania&theme=tokyonight" alt="stats" /> |
 |:---:|:---:|
 
   ___
