@@ -10,12 +10,12 @@
     <a href="https://github.com/gomes-vania">
  ___
 
-| <img src="https://github-readme-stats.vercel.app/api?username=gomes-vania&include_all_commits=true&theme=tokyonight&show_icons=true" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=gomes-vania&theme=tokyonight" alt="stats" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=vangomes_meli&include_all_commits=true&theme=tokyonight&show_icons=true" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=vangomes_meli&theme=tokyonight" alt="stats" /> |
 |:---:|:---:|
 
   ___
 
- <img width="35%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomes-vania&layout=compact&langs_count=16&theme=tokyonight"/>
+ <img width="35%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vangomes_meli&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
 <br>
