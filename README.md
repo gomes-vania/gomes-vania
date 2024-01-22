@@ -4,19 +4,16 @@
  
 <p align="center">Desenvolvedora Full Stack Júnior</p>
 
- ##
-
- <div align="center">
-    <a href="https://github.com/gomes-vania">
- ___
-
-| <img src="https://github-readme-stats.vercel.app/api?username=gomes-vania&include_all_commits=true&theme=tokyonight&show_icons=true" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=gomes-vania&theme=tokyonight" alt="stats" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=gomes-vania&theme=shades-of-purple&show_icons=true" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=gomes-vania&theme=shades-of-purple" alt="stats" /> |
 |:---:|:---:|
 
-  ___
+___
 
- <img width="35%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomes-vania&layout=compact&langs_count=16&theme=tokyonight"/>
+<div width="100%" align="center">
+  <img width="70%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomes-vania&langs_count=6&theme=shades-of-purple&layout=compact" />
 </div>
+
+<br>
 
 <br>
  
