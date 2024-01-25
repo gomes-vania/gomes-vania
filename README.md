@@ -2,7 +2,7 @@
 
  <h3 align="center">🧑🏻‍💻 (Ela | Dela) 🧑🏻‍💻</h3>
  
-<p align="center">Desenvolvedora Full Stack Júnior</p>
+<p align="center">Desenvolvedora FrontEnd Júnior</p>
 
 | <img src="https://github-readme-stats.vercel.app/api?username=gomes-vania&theme=midnight-purple&show_icons=true" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=gomes-vania&theme=midnight-purple" alt="stats" /> |
 |:---:|:---:|
